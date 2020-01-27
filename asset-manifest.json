@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.da005ed0.chunk.css",
+    "main.js": "/admin/static/js/main.36708dc6.chunk.js",
+    "main.js.map": "/admin/static/js/main.36708dc6.chunk.js.map",
+    "runtime~main.js": "/admin/static/js/runtime~main.72e8751d.js",
+    "runtime~main.js.map": "/admin/static/js/runtime~main.72e8751d.js.map",
+    "static/css/2.25b83785.chunk.css": "/admin/static/css/2.25b83785.chunk.css",
+    "static/js/2.057371e4.chunk.js": "/admin/static/js/2.057371e4.chunk.js",
+    "static/js/2.057371e4.chunk.js.map": "/admin/static/js/2.057371e4.chunk.js.map",
+    "index.html": "/admin/index.html",
+    "precache-manifest.6a41b5e426621453adaf47f720c28034.js": "/admin/precache-manifest.6a41b5e426621453adaf47f720c28034.js",
+    "service-worker.js": "/admin/service-worker.js",
+    "static/css/2.25b83785.chunk.css.map": "/admin/static/css/2.25b83785.chunk.css.map",
+    "static/css/main.da005ed0.chunk.css.map": "/admin/static/css/main.da005ed0.chunk.css.map",
+    "static/media/BringBack.svg": "/admin/static/media/BringBack.028b8c73.svg",
+    "static/media/PickUp.svg": "/admin/static/media/PickUp.9b615e92.svg",
+    "static/media/admin.svg": "/admin/static/media/admin.37f2e070.svg"
+  }
+}
